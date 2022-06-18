@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.667719ff.css",
+    "main.js": "/static/js/main.8de0ace8.js",
+    "static/media/driving2.png": "/static/media/driving2.13c06f0dc35b8bed9435.png",
+    "static/media/support.jpg": "/static/media/support.13dffa5bdb3a671bcb5b.jpg",
+    "static/media/cuboid.png": "/static/media/cuboid.5fa2c9471e7c3e1870b9.png",
+    "index.html": "/index.html",
+    "main.667719ff.css.map": "/static/css/main.667719ff.css.map",
+    "main.8de0ace8.js.map": "/static/js/main.8de0ace8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.667719ff.css",
+    "static/js/main.8de0ace8.js"
+  ]
+}
